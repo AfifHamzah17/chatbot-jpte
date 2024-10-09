@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+openai
+python-dotenv
+langchain
+langchain-huggingface
+langchain-community
+pinecone-client
+streamlit-chat
