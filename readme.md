@@ -1,6 +1,6 @@
 # Chatbot-PTIK 🤖
 
-Selamat datang di **Chatbot-PTIK**, proyek yang dirancang untuk mempermudah komunikasi antara mahasiswa dan pihak kampus. Chatbot ini berfungsi sebagai platform digital yang menyediakan informasi dan bantuan dengan cepat, khususnya terkait dengan berbagai aspek kehidupan akademik di PTIK.
+Selamat datang di **Chatbot-PTIK**, proyek yang dirancang untuk mempermudah komunikasi antara mahasiswa dan pihak kampus. Chatbot ini berfungsi sebagai platform digital yang menyediakan informasi dan bantuan dengan cepat, khususnya terkait dengan berbagai aspek kehidupan akademik di Jurusan PTIK.
 
 ## 📝 Deskripsi Proyek
 
@@ -26,7 +26,7 @@ Antarmuka pengguna dirancang dengan mempertimbangkan aspek estetika. Dengan peng
 
 ## 📁 Struktur Proyek
 
-- `app.py`: File utama yang menjalankan aplikasi chatbot.
+- `main.py`: File utama yang menjalankan aplikasi chatbot.
 - `utils.py`: Berisi fungsi-fungsi pendukung untuk memproses dokumen dan mencari informasi.
 - `.env`: File konfigurasi untuk menyimpan kunci API dan variabel penting lainnya (jangan diunggah ke repositori publik).
 
@@ -58,7 +58,7 @@ Antarmuka pengguna dirancang dengan mempertimbangkan aspek estetika. Dengan peng
 
 ## 🌟 Kontribusi
 
-Kami terbuka untuk kontribusi dari semua pihak yang ingin membantu mengembangkan proyek ini. Jika Anda memiliki ide atau fitur baru yang ingin ditambahkan, silakan buat issue atau pull request di repositori ini.
+Saya terbuka untuk kontribusi dari semua pihak yang ingin membantu mengembangkan proyek ini. Jika Anda memiliki ide atau fitur baru yang ingin ditambahkan, silakan buat issue atau pull request di repositori ini.
 
 ## 📞 Dukungan
 
@@ -71,5 +71,3 @@ Afif Hamzah (5213151004)
 Dengan Chatbot-PTIK, kami berharap dapat menjawab semua pertanyaan Anda dan memberikan informasi yang Anda butuhkan dengan cepat dan efisien. Mari bergabung dalam perjalanan ini dan tingkatkan pengalaman akademik Anda di PTIK! Terima kasih telah mengunjungi proyek kami. 🌟
 
 ---
-
-Silakan sesuaikan isi dan format sesuai kebutuhan Anda. Jika ada tambahan atau perubahan, beri tahu saya!
