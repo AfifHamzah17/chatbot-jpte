@@ -64,7 +64,7 @@ Kami terbuka untuk kontribusi dari semua pihak yang ingin membantu mengembangkan
 
 Jika Anda mengalami kesulitan atau memiliki pertanyaan, jangan ragu untuk menghubungi tim pengembang:
 
-Afif Hamzah** (5213151004)
+Afif Hamzah (5213151004)
 
 ## 🎉 Kesimpulan
 
